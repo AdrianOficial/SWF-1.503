@@ -1,7 +1,7 @@
 # SWF-1.503
-Discord : <font color='#009D9D'>Archie</font><font color='#606090'><font size='-2'>#1677</font></font>
-Do not change credits!!!
-AulaMice : https://aulamice.org/index.php?/profile/9-adrianoficial/
+Discord : <font color='#009D9D'>Archie</font><font color='#606090'><font size='-2'>#1677</font></font><br>
+Do not change credits!!!<br>
+AulaMice : https://aulamice.org/index.php?/profile/9-adrianoficial/<br>
 <hr>
 <b>SWF For Java Sources.</b><br>
 Version : 1.503<br>
