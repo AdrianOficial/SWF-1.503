@@ -1,5 +1,5 @@
 # SWF-1.503
-Discord : Archie#1677
+Discord : <font color='#009D9D'>Archie</font><font color='#606090'><font size='-2'>#1677</font></font>
 <hr>
 <b>SWF For Java Sources.</b><br>
 Version : 1.503<br>
