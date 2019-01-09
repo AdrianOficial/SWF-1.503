@@ -5,6 +5,6 @@ AulaMice : https://aulamice.org/index.php?/profile/9-adrianoficial/<br>
 <hr>
 <b>SWF For Java Sources.</b><br>
 Version : 1.503<br>
-cKey : vxlgGjNfFkrRQh<br>
-Login Keys : 2097152,16,8192,15294109,7162193,33554432,14997152<br>
-Packet Keys : 44,35,48,58,25,53,46,7,36,8,114,83,83,107,114,125,106,96,79,99<br>
+cKey : JdmmIp<br>
+Login Keys : 256, 9685486, 1738119, 10854858, 256, 14607921, 8242645<br>
+Packet Keys : 16, 63, 49, 48, 23, 47, 42, 5, 15, 14, 73, 113, 72, 103, 105, 104, 79, 119, 66, 109<br>
